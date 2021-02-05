@@ -26,7 +26,7 @@ function setup(){
     createCanvas(500,700);
 
 
-    umbrella = new Umbrella(200,500);
+    umbrella = new Umbrella(200,400);
 
     //creating drops
     if(frameCount % 150 === 0){
